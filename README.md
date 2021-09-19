@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pham Quoc Hieu
 - 👨‍🎓 I'm student, studying at Industry University in Ho Chi Minh city
 - 👀 I’m interested in Java language
-- 🌱 I’m currently learning everything for Java
+- 🌱 I’m currently learning everything of Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
